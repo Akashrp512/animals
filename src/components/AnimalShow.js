@@ -5,6 +5,7 @@ import cat from '../svg/cat.svg'
 import dog from '../svg/dog.svg'
 import gator from '../svg/gator.svg'
 import heart from '../svg/heart.svg'
+import '../AnimalShow.css'
  
 
 const svgMap = {
