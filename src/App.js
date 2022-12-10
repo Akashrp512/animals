@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
+import AnimalShow from './components/AnimalShow';
 
 function App() {
   return (
     <div className="App">
-      Animals application
+      <AnimalShow />
     </div>
   );
 }
